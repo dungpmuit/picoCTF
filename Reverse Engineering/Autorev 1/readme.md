@@ -23,6 +23,7 @@ Here's the next binary in bytes:
 What's the secret?:
 ```
 Bonus: ELF(Executable and Linkable Format) is the format file of Linux.It's start with 7f 45 4c 46 (45 4c 46 is E L F).
+
 3.We can see the strange number:
 ```
 Welcome! I think I'm pretty good at reverse enginnering. There's NO WAY anyone's better than me. Wanna try? I have 20 binaries I'm going to send you and you have 1 second EACH to get the secret in each one. Good luck >:)
